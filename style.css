@@ -1,0 +1,46 @@
+section{
+    background: rgb(255, 255, 255);
+    width: 600px;
+    height: 300px;
+    text-align: center;
+    margin: auto;
+    border-radius: 50px;
+    box-shadow: 5px 5px 10px black;
+}
+
+body{
+    background:  #22303C;
+}
+h1{
+    font: normal 30pt Arial;
+}
+div{
+    display: flex;
+    width: 160px;
+    height: auto;
+    margin: auto;
+}
+p{
+    font: normal 30pt Arial;  
+    margin: 0;
+    text-align: justify;
+    
+}
+button#iniciar{
+    background-color: rgb(0, 255, 0);
+    width: 70px;
+    height: 50px;
+    border-radius: 15px;
+}
+button#pausar{
+    background-color: yellow;
+    width: 70px;
+    height: 50px;
+    border-radius: 15px;
+}
+button#parar {
+    background-color: rgb(255, 0, 0);
+    width: 70px;
+    height: 50px;
+    border-radius: 15px;
+}
